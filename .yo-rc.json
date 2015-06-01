@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "baseName": "myinvoice",
+    "packageName": "fr.ippon.myinvoice",
+    "packageFolder": "fr/ippon/myinvoice",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "cb75feb9fbdbd1a20ceb3310f6214668e4659cd9"
+  }
+}
